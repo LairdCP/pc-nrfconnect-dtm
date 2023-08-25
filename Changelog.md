@@ -1,3 +1,9 @@
+## 2.1.2 - 2023-08-25
+
+## Changed
+
+-   Transmit power choices are for BL5340 and BL5340PA (nRF5340).
+
 ## 2.1.0 - 2023-04-03
 
 ## Added

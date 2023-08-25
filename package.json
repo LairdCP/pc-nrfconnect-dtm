@@ -1,7 +1,7 @@
 {
     "name": "pc-nrfconnect-dtm",
-    "version": "2.1.0",
-    "displayName": "Direct Test Mode",
+    "version": "2.1.2",
+    "displayName": "Direct Test Mode for nRF5340 (BL5340)",
     "description": "RF PHY testing of Bluetooth Low Energy devices",
     "homepage": "https://github.com/NordicSemiconductor/pc-nrfconnect-dtm",
     "repository": {
@@ -41,7 +41,7 @@
         "@types/chart.js": "^2.9.32",
         "chart.js": "^2.9.4",
         "chartjs-plugin-datalabels": "^1.0.0",
-        "nrf-dtm-js": "git+https://github.com/NordicPlayground/nrf-dtm-js#serialport10",
+        "nrf-dtm-js": "../nrf-dtm-js",
         "pc-nrfconnect-shared": "github:NordicSemiconductor/pc-nrfconnect-shared#v80",
         "react-chartjs-2": "^2.7.6"
     },
