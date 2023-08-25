@@ -4,5 +4,8 @@
  * SPDX-License-Identifier: LicenseRef-Nordic-4-Clause
  */
 
-export const dbmValues = [-40, -20, -16, -12, -8, -4, 0, 2, 3, 4, 5, 6, 7, 8];
+// export const dbmValues = [-40, -20, -16, -12, -8, -4, 0, 2, 3, 4, 5, 6, 7, 8];
+export const dbmValues = [
+    -40, -20, -16, -12, -8, -7, -6, -5, -4, -3, -2, -1, 0,
+];
 export const compatiblePCAs = ['PCA10040', 'PCA10056'];
